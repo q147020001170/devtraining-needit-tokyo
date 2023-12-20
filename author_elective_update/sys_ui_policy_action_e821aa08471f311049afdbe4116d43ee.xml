@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>sys_created_on</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-19 09:26:22</sys_created_on>
+        <sys_id>e821aa08471f311049afdbe4116d43ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_created_on</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_e821aa08471f311049afdbe4116d43ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-19 09:26:22</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="Test1219001">375d5644471f311049afdbe4116d4341</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>6140bf29db1eb5dcf697684e1396199d</instance_id>
+        <instance_name>dev203849</instance_name>
+        <name>sys_ui_policy_action_e821aa08471f311049afdbe4116d43ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>sys_created_on</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-19 09:26:22</sys_created_on><sys_id>e821aa08471f311049afdbe4116d43ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_created_on</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_e821aa08471f311049afdbe4116d43ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-19 09:26:22</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="Test1219001">375d5644471f311049afdbe4116d4341</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1176253857</payload_hash>
+        <record_name>sys_created_on</record_name>
+        <reverted_from/>
+        <source>3f71ce80479b311049afdbe4116d43d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-19 09:26:22</sys_created_on>
+        <sys_id>ea81a280471f311049afdbe4116d43fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c8165ce8e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-19 09:26:22</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>2681a280cc1f31104b5b8e4612de28fd</update_guid>
+        <update_guid_history>2681a280cc1f31104b5b8e4612de28fd:1176253857</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-19 09:27:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>37cfc2b3e8b24fe8979ef8877456aa90</sys_id>
+        <sys_metadata>e821aa08471f311049afdbe4116d43ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_created_on</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt show or hide Other field">375d5644471f311049afdbe4116d4341</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_e821aa08471f311049afdbe4116d43ee</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_e821aa08471f311049afdbe4116d43ee">ea81a280471f311049afdbe4116d43fd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-19 09:27:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
